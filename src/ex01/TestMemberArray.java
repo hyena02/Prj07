@@ -1,5 +1,7 @@
 package ex01;
 
+import java.util.Objects;
+
 class Member {
 	   // Field
 	   private int num;
